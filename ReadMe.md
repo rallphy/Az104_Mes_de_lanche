@@ -1,0 +1,1 @@
+Caminho usado para estudar certificação AZ-104 usando o livro 'Learn Azure in a Month of Lunches' e githubs https://github.com/fouldsy/azure-mol-samples / https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master
