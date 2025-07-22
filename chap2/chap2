@@ -1,0 +1,58 @@
+CREATE VM chap 2
+
+Create Windows machine
+
+Resource Group
+resourcegroup="MyResourceGroup"
+location="eastus"
+az group create --name $resourcegroup --location $location
+
+
+Create the vm
+vmname="MyWindowsVM"
+username="ralphy"
+
+az vm image list --output table
+
+az vm create \
+  --resource-group $resourcegroup \
+  --name $vmname \
+  --image Win2022Datacenter \
+  --admin-username $username \
+  --public-ip-sku Standard
+
+Open port 80
+az vm open-port --port 80 --resource-group $resourcegroup --name $vmname
+
+Install IIS
+az vm run-command invoke \
+  --resource-group $resourcegroup \
+  --name $vmname \
+  --command-id RunPowerShellScript \
+  --scripts "Install-WindowsFeature -name Web-Server -IncludeManagementTools"
+
+
+Get IP
+az vm show \
+  --resource-group $resourcegroup \
+  --name $vmname \
+  --show-details \
+  --query publicIps \
+  --output tsv
+
+or
+
+az vm list-ip-addresses -n $vmname -o table
+
+
+Check IIS
+az vm run-command invoke \
+  --resource-group MyResourceGroup \
+  --name MyWindowsVM \
+  --command-id RunPowerShellScript \
+  --scripts "Get-Service -Name W3SVC"
+
+or
+
+curl -I http://<IP_ADDRESS>
+
