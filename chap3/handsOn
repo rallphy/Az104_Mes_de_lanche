@@ -1,0 +1,4 @@
+Hands-on feito em: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
+
+Sem sucesso na parte 'git remote add azure your-git-clone-url' do livro. Pedia senha e eu inseria a senha do MEU passo 'az webapp deployment user set --user-name azuremol --password @azurem0l!', mas só dava erro.
+Entretanto, deu certo seguindo o github do livro: https://github.com/fouldsy/azure-mol-samples/blob/master/3/azure_cli_sample.sh
