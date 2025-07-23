@@ -1,4 +1,4 @@
-#listar VM's disponíveis (mudar região):
+# listar VM's disponíveis (mudar região):
 az vm list-skus --location eastus --output table
 
 #Criar VM com disco:
