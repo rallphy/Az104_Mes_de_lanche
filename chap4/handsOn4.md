@@ -1,10 +1,22 @@
 # listar VM's disponíveis (mudar região):
 az vm list-skus --location eastus --output table
+ou
+az vm list-skus \
+  --location eastus \
+  --resource-type virtualMachines \
+  --query "[?contains(name, 'Standard_B')].[name]" \
+  -o table
+_este mostra somente os tipo Standard B_
 
 # Criar VM com disco:
 _Adaptar. Este passo não é aplicável se estiver utilizando uma sandbox, pois a sandbox já tem um rg._
 - resource group:
 az group create --name azuremolchapter4 --location eastus
+
+# 'Pegar' o nome do resource group
+rgname=$(az group list --query "[0].name" -o tsv)
+ou
+"$(az group list --query "[0].name" -o tsv)" no parâmetro '-g'
 
 ## - Linux VM:
 az vm create \
