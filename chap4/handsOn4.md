@@ -67,3 +67,9 @@ python storage_queue_demo.py
 
 _Só para visualizar o conceito de __queue__._
 
+### Práticas guiadas: 
+Sandbox: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/3-exercise-create-a-web-app-in-the-azure-portal?pivots=python
+
+1 - https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Demos/07%20-%20Administer%20Azure%20Storage.md
+
+2 - https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_07-Manage_Azure_Storage.md
