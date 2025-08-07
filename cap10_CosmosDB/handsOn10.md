@@ -1,4 +1,4 @@
-# Virtual Machine Scale Sets
+# CosmosDB
 
 ## Guia 1 seguido:
 _https://learn.microsoft.com/en-us/training/paths/get-started-azure-cosmos-db-sql-api/_
