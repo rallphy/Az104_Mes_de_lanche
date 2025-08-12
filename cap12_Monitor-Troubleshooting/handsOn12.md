@@ -4,7 +4,7 @@
 _https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/_
 
 ## Guia 2 seguido:
-_https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/_
+_https://learn.microsoft.com/en-us/training/modules/intro-to-azure-network-watcher/_
 
 ## Guia 3 seguido:
 _https://learn.microsoft.com/en-us/training/modules/configure-replication-manage-failovers-azure-cosmos-db/_
