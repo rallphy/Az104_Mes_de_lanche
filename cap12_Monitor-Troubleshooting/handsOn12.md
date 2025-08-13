@@ -7,10 +7,7 @@ _https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagn
 _https://learn.microsoft.com/en-us/training/modules/intro-to-azure-network-watcher/_
 
 ## Guia 3 seguido:
-_https://learn.microsoft.com/en-us/training/modules/configure-replication-manage-failovers-azure-cosmos-db/_
+_https://learn.microsoft.com/en-us/training/modules/troubleshoot-azure-network-infrastructure/_
 
-__- obs.: sem hands-on no sandbox.__
+__- obs.: sem hands-on no sandbox. Impossível criar Network Watcher com a conta de sandbox.__
 
-
-
-learn how to review boot diagnostics for a VM, monitor performance metrics, and troubleshoot connectivity issues with network Watcher.
