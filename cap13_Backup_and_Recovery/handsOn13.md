@@ -1,8 +1,6 @@
 # Azure Backup
-
-## Azure DNS
 ## Guia 1 seguido:
-_https://learn.microsoft.com/en-us/training/modules/intro-to-azure-dns/_
+_https://learn.microsoft.com/en-us/training/modules/intro-to-azure-backup/_
 
 ## Guia 2 seguido:
 _https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/_
