@@ -9,6 +9,8 @@ _https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-wit
 ## Guia 3 seguido:
 _https://learn.microsoft.com/en-us/training/modules/plan-implement-business-continuity-disaster-recovery/_
 
+___
+Notas:\
 __não foi possível fazer os sandbox de:__\
 _https://github.com/fouldsy/azure-mol-samples/blob/master/13/azure_cli_sample.sh_ \
 __nem__ \
