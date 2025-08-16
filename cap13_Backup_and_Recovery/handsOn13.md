@@ -3,13 +3,10 @@
 _https://learn.microsoft.com/en-us/training/modules/intro-to-azure-backup/_
 
 ## Guia 2 seguido:
-_https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/_
-
-## Guia 3 seguido:
-_Do_ _livro:_ _https://github.com/fouldsy/azure-mol-samples/tree/master/11_
+_https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/___
 
 Foi possível usar o sandbox do Guia 2 pra fazer o hands-on do livro.
 
 ## Azure Site Recovery
-## Guia 4 seguido:
-_https://learn.microsoft.com/en-us/training/modules/distribute-load-with-traffic-manager/_
+## Guia 3 seguido:
+__https://learn.microsoft.com/en-us/training/modules/plan-implement-business-continuity-disaster-recovery/__
