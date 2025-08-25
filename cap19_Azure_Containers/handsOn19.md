@@ -6,6 +6,9 @@ _https://learn.microsoft.com/en-us/training/modules/configure-azure-container-in
 _https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/_
 
 ## Guia 3 seguido:
-_https://learn.microsoft.com/en-us/training/modules/implement-desired-state-configuration-dsc/_
+_https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/_
+
+## Guia 4 seguido:
+_
 
 ___
