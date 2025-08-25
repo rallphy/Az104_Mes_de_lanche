@@ -3,7 +3,7 @@
 _https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/_
 
 ## Guia 2 seguido:
-_https://learn.microsoft.com/en-us/training/modules/protect-vm-settings-with-dsc/_ - (apesar de ter hands-on, o sandbox não permitiu criar Automation Account como indicado pelo guia)
+_https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/_
 
 ## Guia 3 seguido:
 _https://learn.microsoft.com/en-us/training/modules/implement-desired-state-configuration-dsc/_
