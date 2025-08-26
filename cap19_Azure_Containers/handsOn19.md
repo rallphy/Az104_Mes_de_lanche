@@ -1,4 +1,4 @@
-# Azure Containers
+# Azure Containers Docker
 ## Guia 1 seguido:
 _https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/_
 
@@ -9,6 +9,10 @@ _https://learn.microsoft.com/en-us/training/modules/create-run-container-images-
 _https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/_
 
 ## Guia 4 seguido:
-_
+_https://learn.microsoft.com/en-us/training/modules/run-docker-with-azure-container-instances/_
+
+# Azure Kubernetes
+## Guia 5 seguido:
+_https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/_
 
 ___
