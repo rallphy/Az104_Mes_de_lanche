@@ -15,4 +15,7 @@ _https://learn.microsoft.com/en-us/training/modules/run-docker-with-azure-contai
 ## Guia 5 seguido:
 _https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/_
 
+## Guia 6:
+_https://learn.microsoft.com/en-us/training/modules/intro-to-azure-kubernetes-service/_
+
 ___
