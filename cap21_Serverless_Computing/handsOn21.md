@@ -1,9 +1,9 @@
 # Azure Serverless Computing
 ## Guia 1 seguido:
-_https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/_
+_https://learn.microsoft.com/en-us/training/modules/intro-to-logic-apps/_
 
 ## Guia 2 seguido:
-_https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/_
+_https://learn.microsoft.com/en-us/training/modules/logic-apps-and-custom-connectors/_ - hands-on
 
 ## Guia 3 seguido:
 _https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/_
