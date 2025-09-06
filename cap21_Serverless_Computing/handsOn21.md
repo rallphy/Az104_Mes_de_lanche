@@ -6,7 +6,7 @@ _https://learn.microsoft.com/en-us/training/modules/intro-to-logic-apps/_
 _https://learn.microsoft.com/en-us/training/modules/logic-apps-and-custom-connectors/_ - hands-on
 
 ## Guia 3 seguido:
-_https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/_
+_https://learn.microsoft.com/en-us/training/modules/route-and-process-data-logic-apps/_
 
 ## Guia 4 seguido:
 _https://learn.microsoft.com/en-us/training/modules/run-docker-with-azure-container-instances/_
