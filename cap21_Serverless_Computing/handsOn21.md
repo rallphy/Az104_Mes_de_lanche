@@ -9,9 +9,8 @@ _https://learn.microsoft.com/en-us/training/modules/logic-apps-and-custom-connec
 _https://learn.microsoft.com/en-us/training/modules/route-and-process-data-logic-apps/_
 
 ## Guia 4 seguido:
-_https://learn.microsoft.com/en-us/training/modules/run-docker-with-azure-container-instances/_
+_https://learn.microsoft.com/en-us/training/modules/azure-event-grid/_
 
-# Azure Kubernetes
 ## Guia 5 seguido:
 _https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/_
 
