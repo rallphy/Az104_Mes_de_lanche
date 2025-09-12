@@ -12,9 +12,5 @@ _https://learn.microsoft.com/en-us/training/modules/route-and-process-data-logic
 _https://learn.microsoft.com/en-us/training/modules/azure-event-grid/_
 
 ## Guia 5 seguido:
-__
-
-## Guia 6:
-_https://learn.microsoft.com/en-us/training/modules/intro-to-azure-kubernetes-service/_
-
+_https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/_
 ___
