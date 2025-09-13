@@ -8,4 +8,4 @@ _https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/ma
 
 LINKS **MUITO** ÚTEIS
 - https://learn.microsoft.com/pt-br/shows/exam-readiness-zone/?WT.mc_id=general_Twitter-wwl&terms=104
-- 
+- https://learn.microsoft.com/en-us/training/courses/az-104t00
